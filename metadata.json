@@ -1,0 +1,6 @@
+{
+  "name": "FATANVERSE",
+  "description": "Aplikasi cerita resmi FATANVERSE dengan fitur membaca offline, ilustrasi interaktif, notifikasi bab baru, biodata karakter, dan VS Battle Wiki.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
